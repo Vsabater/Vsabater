@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, me llamo: Víctor Sabater</h1>
+<h1 align="center">Hola 👋, me llamo Víctor Sabater</h1>
 <h3 align="center">Acabo de terminar mis estudios (DAM) y soy un apasionado de la programación, intento aprender cosas nuevas todos los días!</h3>
 
 <h3 align="left">Connect with me:</h3>
