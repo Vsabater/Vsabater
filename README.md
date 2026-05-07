@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Víctor Sabater</h1>
-<h3 align="center">Teng un doble grado en (DAM) y (DAW), soy un apasionado de la programación, intento aprender cosas nuevas todos los días!</h3>
+<h3 align="center">TengO un doble grado en (DAM) y (DAW), soy un apasionado de la programación, intento aprender cosas nuevas todos los días!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
